@@ -13,6 +13,6 @@ See my repositories:
 
    and others...
 
-I recommend to use Java 17 and Python 3.11 to run these projects.
+I recommend using Java 17 and Python 3.11 to run these projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyash17)](https://github.com/anuraghazra/github-readme-stats)
