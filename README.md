@@ -1,16 +1,18 @@
-## Hi there 👋
+- Hi, I’m Daniil, welcome to my GitHub page
+- I’m interested in web programming, networking and security
+- How to reach me: LinkedIn https://www.linkedin.com/in/daniil-shkabara
 
-<!--
-**danyash17/danyash17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+See my repositories:
+1) Medione - healthcare system
+2) Kiddo Toolbox - offensive security tools
+3) Minesweeper game
+4) Plain Antivirus
+5) Image Processor
+6) Telecommunication simulation
+7) ATMEGA16L-8PI circuit board project
 
-Here are some ideas to get you started:
+   and others...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recommend using Java 17 and Python 3.11 to run these projects.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyash17)](https://github.com/anuraghazra/github-readme-stats)
